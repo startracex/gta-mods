@@ -26,7 +26,7 @@ SA/VC/III
 
 [MixMods](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
 
-### PortableGTA *
+### PortableGTA \*
 
 将用户目录移动到游戏目录
 
@@ -64,7 +64,7 @@ SA/VC/III
 
 ### Atmosphere Interface Pack
 
-高清 UI
+高清 UI，包括地图，图例，小地图，菜单图像
 
 [MixMods](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/)
 
@@ -108,6 +108,8 @@ GPS 导航
 
 中文汉化包
 
+[wmhhz.github.io](https://wmhhz.github.io/gtasa/)
+
 ## 视觉效果
 
 ### Combat FX Upgrade
@@ -130,7 +132,9 @@ GPS 导航
 
 ### SkyGfx / Extended
 
-SkyGfx 及其拓展，使用其他平台的图形并修复图形错误
+包含 SkyGfx 使用其他平台的图形并修复图形错误
+
+也含有 Shader Stochastic 修复重复的纹理
 
 [MixMods](https://www.mixmods.com.br/2024/03/sa-skygfx/)
 
@@ -272,7 +276,7 @@ SA/SADE
 
 [MixMods](https://www.mixmods.com.br/2020/08/more-doors-in-interiors-portas-em-interiores/)
 
-### No More Abandoned Area *
+### No More Abandoned Area \*
 
 不再有废弃区域，在废弃区域添加 NPC
 
@@ -356,7 +360,7 @@ SA/VC
 
 ## 剧情与任务
 
-### Ryder Doesnt Betray *
+### Ryder Doesnt Betray \*
 
 Ryder 不会背叛 Grove Street
 
@@ -364,7 +368,7 @@ Ryder 不会背叛 Grove Street
 
 [MixMods](https://www.mixmods.com.br/2021/05/ryder-doesnt-betray-ryder-nao-trai/)
 
-### Story Mode *
+### Story Mode \*
 
 故事情节改进
 
