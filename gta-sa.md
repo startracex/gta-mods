@@ -210,6 +210,20 @@ https://www.mixmods.com.br/2022/07/real-linear-graphics/
 
 https://www.mixmods.com.br/2024/03/sa-skygfx/
 
+## 音频效果
+
+### Soundize
+
+声音系统增强和环境音效
+
+https://www.mixmods.com.br/2025/09/soundize/
+
+### Uncompressed SFX Pack
+
+原版高清声效
+
+https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/
+
 ## 纹理
 
 ### HD Night Windows
@@ -554,12 +568,6 @@ https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/
 
 https://www.mixmods.com.br/2022/11/sa-tree-house-mod-casa-na-arvore/
 
-### Soundize
-
-声音系统增强和环境音效
-
-https://www.mixmods.com.br/2025/09/soundize/
-
 ### Enterable Vehicles
 
 可进入载具内部
@@ -568,7 +576,7 @@ https://zh.libertycity.net/file/49470)
 
 ### Urbanize
 
-添加环境 NPC
+添加环境 NPC、 载具和物品
 
 https://www.mixmods.com.br/2025/09/urbanize/
 

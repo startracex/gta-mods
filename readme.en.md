@@ -1,13 +1,11 @@
 # GTA CLEO/Mods
 
-This project collects my commonly used Mods and strives to maintain the original style. Many of these Mods depend on those in the common tool category, while a small number require other Mods for functionality.
+This project collects the vanilla-style CLEO/Mods (hereinafter referred to as "Mods") that I commonly use.
 
-Mods that may corrupt save files, break storylines, alter file structures, cause frequent crashes, or have significant compatibility issues with other Mods are marked with `*`.
+Mods that may corrupt save files, break the storyline, alter file structures, cause frequent crashes, or are difficult to make compatible with other Mods are marked with an asterisk `*`.
 
-All listed Mods without the `*` mark can be installed entirely, and compatibility issues usually do not occur.
+All listed Mods without the `*` mark can be installed together and typically do not cause compatibility issues.
 
-## Games
+[Grand Theft Auto: San Andreas](./gta-sa.md)
 
-[GTA:SA](./gta-sa.md)
-
-[GTA4](./gta4.md)
+[Grand Theft Auto 4](./gta4.md)
