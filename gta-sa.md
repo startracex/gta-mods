@@ -1,420 +1,328 @@
-## 基础工具
+# 基础工具
 
-### Essentials Pack
+## [Essentials Pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/)
 
 基础模组包，包含一系列必要的模组
 
-https://www.mixmods.com.br/2019/06/sa-essentials-pack/
-
-### EffectLoader
+## [EffectLoader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/)
 
 效果加载器
 
-https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/
+## [Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/)
 
-### Improved Streaming
+流内存改进，修复地图加载错误
 
-流内存改进
+## [Open Limit Adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
 
-https://www.mixmods.com.br/2022/04/improved-streaming/
+限制调整器，提高对人数、车辆、物品等数量的限制
 
-### Open Limit Adjuster
+# 修复和调整
 
-限制调整器
+## [Collision Interiors Fix](https://www.mixmods.com.br/2022/01/sa-collision-interiors-fix/)
 
-SA/VC/III
+修复内饰碰撞
 
-https://www.mixmods.com.br/2022/10/open-limit-adjuster/
+## [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/)
 
-### PortableGTA \*
+修复缺失的路灯灯柱
 
-将用户目录移动到游戏目录
+## [MixSets](https://www.mixmods.com.br/2022/03/sa-mixsets/)
 
-**需要更改存档位置**
+多项调整和修复
 
-SA/VC/III
-
-https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files/
-
-## 修复和调整
-
-### Collision Interiors Fix
-
-内饰碰撞修复
-
-https://www.mixmods.com.br/2022/01/sa-collision-interiors-fix/
-
-### MixSets
-
-通过配置文件进行调整和修复
-
-SA/VC/III
-
-https://www.mixmods.com.br/2022/03/sa-mixsets/
-
-### Parachute Landing Fix
-
-降落伞登录动作修复
-
-https://www.mixmods.com.br/2015/07/correcao-de-pouso-do-paraquedas-cleo/
-
-### Proper Fixes
-
-大量修复
-
-需要优先级高于 RoSA Project Evolved
-
-**可能导致崩溃**
-
-https://www.mixmods.com.br/2025/11/sa-proper-fixes/
-
-### Ped Attractor Chair Anim Fix
+## [Ped Attractor Chair Anim Fix](https://www.mixmods.com.br/2022/01/gta-sa-ped-attractor-chair-anim-fix-atm/)
 
 修复 NPC 在椅子上的动画
 
-https://www.mixmods.com.br/2022/01/gta-sa-ped-attractor-chair-anim-fix-atm/
+## [Proper Fixes \*](https://www.mixmods.com.br/2025/11/sa-proper-fixes/)
 
-### Missing Lampposts Fix
+大量修复
 
-缺失的路灯灯柱修复
+**需要优先级高于 RoSA Project Evolved**
 
-https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
+**需要 SkyGfx `buildingPipe=PS2`**
 
-### Spread Fix
+**可能导致崩溃**
+
+## [Rain Audio Fix](https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/)
+
+在室内听到雨和雷电声
+
+## [Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/)
 
 子弹散射修复
 
-https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/
+## [Throw Rotate Fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/)
 
-### Weapon Recoil Auto
+投掷武器将在空中旋转
 
-武器后坐力调整
+# 动画
 
-https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/
-
-## 动画
-
-### Open Door Anim
+## [Open Door Anim](https://www.mixmods.com.br/2021/04/open-door-anim-v1-2-1-animacao-abrindo-porta/)
 
 添加开门动画
 
-https://www.mixmods.com.br/2021/04/open-door-anim-v1-2-1-animacao-abrindo-porta/
-
-### More Realistic Reload Weapon Animation Mod
+## [More Realistic Reload Weapon Animation Mod](https://www.mixmods.com.br/2021/05/more-realistic-reload-weapon-animation-mod-anims-de-recarregar/)
 
 更真实的装填动画
 
-https://www.mixmods.com.br/2021/05/more-realistic-reload-weapon-animation-mod-anims-de-recarregar/
+# 界面与 HUD
 
-## 界面与 HUD
-
-### Atmosphere Interface Pack
+## [Atmosphere Interface Pack](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/)
 
 高清 UI，包括地图，图例，小地图，菜单图像
 
-https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/
-
-### Collectibles On Radar
+## [Collectibles on Radar](https://www.mixmods.com.br/2022/03/collectibles-on-radar-mostrar-coletaveis-no-mapa/)
 
 在地图上显示收集品
 
-https://www.mixmods.com.br/2022/03/collectibles-on-radar-mostrar-coletaveis-no-mapa/
-
-### Heli Cam Lock
-
-视角跟随直升机旋转
-
-https://www.mixmods.com.br/2015/08/heli-cam-lock-travar-a-camera-no-helicoptero/
-
-### GPS Redux
+## [GPS Redux](https://www.mixmods.com.br/2022/10/sa-gps-redux)
 
 GPS 导航
 
-https://www.mixmods.com.br/2022/10/sa-gps-redux
-
-### GTAV HUD
-
-模仿 GTA V 的 HUD
-
-https://www.mixmods.com.br/2021/12/sa-gta-v-hud
-
-### Loadscreens 4K Definitive
+## [Loadscreens 4K Definitive](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/)
 
 高清加载界面
 
-https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/
+## [Restored Icons](https://www.mixmods.com.br/2019/11/restored-icons-restaurar-icones-nao-usados/)
 
-### Void Radio Wheel
+恢复未使用的图标，到武器图标左侧
+
+## [Void Radio Wheel](https://libertycity.net/files/gta-san-andreas/212112-void-radio-wheel.html)
 
 电台切换轮盘
 
-https://libertycity.net/files/gta-san-andreas/212112-void-radio-wheel.html
-
-### Void Weapon Wheel
+## [Void Weapon Wheel](https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html)
 
 武器切换轮盘
 
-https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html)
-
-### 无名汉化
+## [无名汉化](https://wmhhz.github.io/gtasa/)
 
 中文汉化包
 
-https://wmhhz.github.io/gtasa/
+# 音频系统和声音特效
 
-## 视觉效果
+## [Soundize](https://www.mixmods.com.br/2025/09/soundize/)
 
-### Combat FX Upgrade
+声音系统增强和环境音效
 
-高清战斗特效
+## [Uncompressed SFX Pack](https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/)
 
-https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-efeitos-hd/
+原版高清声效
 
-### 24h TimeCycle \*
+# 图形与视觉特效
 
-24 小时时间循环
-
-**一些情况下会导致崩溃**
-
-https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/
-
-### Graphics Tweaker
+## [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
 
 对图形增强
 
-https://www.mixmods.com.br/2022/09/graphicstweaker/
+## [FxsFuncs](https://www.mixmods.com.br/2025/06/fxsfuncs/)
 
-### IMFX Explosions
+效改进特
 
-改进效果
+## [Project 2DFX](https://www.mixmods.com.br/2020/02/sa-project2dfx/)
 
-https://www.mixmods.com.br/2018/09/imfx-improved-fx/
+提升渲染距离
 
-### Project 2DFX
+## [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/)
 
-高渲染距离
+真实天空
 
-https://www.mixmods.com.br/2020/02/sa-project2dfx/
-
-### Real Linear Graphics
-
-使得颜色更真实，减弱滤镜
-
-https://www.mixmods.com.br/2022/07/real-linear-graphics/
-
-### SkyGfx / Extended
+## [SkyGfx Extended](https://www.mixmods.com.br/2024/03/sa-skygfx/)
 
 包含 SkyGfx 使用其他平台的图形并修复图形错误
 
 也含有 Shader Stochastic 修复重复的纹理
 
-https://www.mixmods.com.br/2024/03/sa-skygfx/
+# 环境光照与色彩风格
 
-## 音频效果
+## [24h TimeCycle \*](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/)
 
-### Soundize
+24 小时时间循环
 
-声音系统增强和环境音效
+**一些情况下会导致崩溃**
 
-https://www.mixmods.com.br/2025/09/soundize/
+## [Skyline Timecyc](https://www.mixmods.com.br/2021/04/skyline-timecyc-cores-corrigidas/)
 
-### Uncompressed SFX Pack
+色彩矫正
 
-原版高清声效
+## [Real Linear Graphics \*](https://www.mixmods.com.br/2022/07/real-linear-graphics/)
 
-https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/
+使得颜色更真实，减弱滤镜
 
-## 纹理
+**降低游戏氛围**
 
-### HD Night Windows
+# 纹理与模型
+
+## [HD Night Windows](https://www.mixmods.com.br/2021/05/hd-night-windows-luzes-noturnas-hd/)
 
 高清的夜间窗户
 
-https://www.mixmods.com.br/2021/05/hd-night-windows-luzes-noturnas-hd/
-
-### HD Underwater
+## [HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/)
 
 高清水下
 
-https://www.mixmods.com.br/2022/06/sa-hd-underwater/
+## [Improved And Fixed Original Vegetation](https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/)
 
-### Walter's Brown Streak
+改善和修复植被，圆形的树
 
-高清客运火车
-
-https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/
-
-### Walter's Freight
-
-高清货运火车
-
-https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/
-
-### ROSA Project Evolved
-
-高清纹理
-
-https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/
-
-### Sky Gradient Fix
-
-天空渐变修复
-
-https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/
-
-### Mobile Hands
-
-来自移动端的分开的手指
-
-https://www.gtainside.com/en/sanandreas/mods/168952-mobile-hands
-
-### Original HQ Palms
-
-高清棕榈树
-
-https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/
-
-### LS Lit Church
+## [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/)
 
 发光洛圣都教堂
 
-https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/
-
-### UFO Bar Lit
-
-发光 UFO 模型
-
-https://www.mixmods.com.br/2022/09/ufo-bar-lit-luz-no-disco-voador/
-
-### Revamped Arsenal
-
-[改进的原版武器](https://www.mixmods.com.br/2019/09/improved-original-weapons-mod-pack/)的替代方案，武器改为了黑色
-
-**还带有武器图标**
-
-https://www.mixmods.com.br/2020/10/revamped-arsenal-armas-originais-melhoradas/
-
-### Meshsmoothed Pack for rounder objects
+## [Meshsmoothed Pack for rounder objects](https://www.mixmods.com.br/2021/05/mesh-smoothed-pack-objetos-mais-redondos/)
 
 让世界里的圆形物体更光滑
 
-https://www.mixmods.com.br/2021/05/mesh-smoothed-pack-objetos-mais-redondos/
-
-### Meshsmooth Pack
+## [Meshsmooth Pack](https://www.mixmods.com.br/2022/07/sa-meshsmooth-pack-by-hysen/)
 
 让道路更圆滑
 
-https://www.mixmods.com.br/2022/07/sa-meshsmooth-pack-by-hysen/
+## [Mobile Hands](https://www.gtainside.com/en/sanandreas/mods/168952-mobile-hands)
 
-### Modelos Em 3d Na Ammu Nation
+来自移动端的分开的手指
+
+## [Modelos Em 3d Na Ammu Nation](https://www.mixmods.com.br/2016/07/modelos-em-3d-na-ammu-nation/)
 
 武装国度展示 3D 武器模型
 
-https://www.mixmods.com.br/2016/07/modelos-em-3d-na-ammu-nation/
+## [Original HQ Palms](https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/)
 
-## 游戏玩法
+高清棕榈树
 
-### Buy Property
+## [PedFuncs](https://www.mixmods.com.br/2022/07/pedfuncs/)
+
+为行人添加随机材质
+
+## [Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/)
+
+添加更多夜间亮灯的窗户
+
+## [Proper Characters Retex HD](https://www.mixmods.com.br/2022/07/sa-proper-characters-retex-hd-peds-remaster/)
+
+高清 NPC 材质
+
+## [Proper Player Retex](https://www.mixmods.com.br/2024/12/proper-player-retex/)
+
+高清 CJ
+
+## [Improved Original Weapons](https://www.mixmods.com.br/2019/09/improved-original-weapons-mod-pack/)
+
+高清的原版武器
+
+**需要优先级高于 ROSA Project Evolved**
+
+## [Revamped Arsenal \*](https://www.mixmods.com.br/2020/10/revamped-arsenal-armas-originais-melhoradas/)
+
+[Improved Original Weapons](#improved-original-weapons)的替代方案，武器改为了黑色
+
+**需要优先级高于 ROSA Project Evolved**
+
+**部分任务（如驾车扫荡）的动画错位**
+
+## [ROSA Project Evolved](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/)
+
+高清纹理
+
+## [Smooth Criminal Bicycles](https://www.mixmods.com.br/2019/06/smooth-criminal-bicycles-bicicletas-mais-arredondadas/)
+
+圆滑的自行车纹理
+
+## [Sky Gradient Fix](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
+
+天空渐变修复
+
+## [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/)
+
+逼真的鸟
+
+## [UFO Bar Lit](https://www.mixmods.com.br/2022/09/ufo-bar-lit-luz-no-disco-voador/)
+
+发光 UFO 模型
+
+## [Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/)
+
+高清客运火车
+
+## [Walter's Freight](https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/)
+
+高清货运火车
+
+# 游戏玩法
+
+## [Bullethole](http://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros.html)
+
+子弹射击留下弹孔
+
+## [Buy Property](https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/)
 
 购买更多地产
 
-https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/
-
-### Car Wash
-
-添加洗车功能
-
-https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/
-
-### Cars Divert
+## [Cars Divert](https://www.mixmods.com.br/2015/03/cars-divert-v1-1-carros-desviarem-de-voce/)
 
 使对向车辆在碰撞前绕路和闪灯避开玩家
 
-https://www.mixmods.com.br/2015/03/cars-divert-v1-1-carros-desviarem-de-voce/
+## [Car Wash](https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/)
 
-### Chroma Key
+添加洗车功能
+
+## [Chroma Key](https://www.mixmods.com.br/2020/04/chroma-key-mod/)
 
 添加生成绿幕作弊码
 
-https://www.mixmods.com.br/2020/04/chroma-key-mod/
-
-### Climb Mod
+## [Climb Mod](https://libertycity.net/files/gta-san-andreas/196467-climbmod-v2.4-pc-mobile.html)
 
 拓展攀爬功能
 
-https://libertycity.net/files/gta-san-andreas/196467-climbmod-v2.4-pc-mobile.html
-
-### Fair Police
-
-警察会攻击攻击 CJ 的行人
-
-https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/
-
-### First Person Mod
-
-第一人称模组
-
-https://www.mixmods.com.br/2022/03/first-person-mod-primeira-pessoa/
-
-### Horn Call Homies
-
-在盟友附近鸣笛招募他们
-
-https://www.mixmods.com.br/2018/08/horn-call-homies-chamar-gangue-buzinando/
-
-### Enterable Hidden Interiors
+## [Enterable Hidden Interiors](https://www.mixmods.com.br/2021/01/enterable-hidden-interiors-entrar-em-interiores-escondidos/)
 
 进入隐藏的室内
 
-https://www.mixmods.com.br/2021/01/enterable-hidden-interiors-entrar-em-interiores-escondidos/
+## [Extended Gang Wars](https://www.mixmods.com.br/2017/07/extended-gang-wars/)
 
-### Gang Rider \*
+拓展帮盘战争
+
+## [Fair Police](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/)
+
+警察会攻击攻击 CJ 的行人
+
+## [First Person Mod](https://www.mixmods.com.br/2022/03/first-person-mod-primeira-pessoa/)
+
+第一人称模组
+
+## [Food Eating Fix](https://www.mixmods.com.br/2019/04/food-eating-fix-v1-2-comida-visivel-enquanto-come/)
+
+进食时食物可见
+
+## [Horn Call Homies](https://www.mixmods.com.br/2018/08/horn-call-homies-chamar-gangue-buzinando/)
+
+在盟友附近鸣笛招募他们
+
+## [Gang Rider \*](https://www.mixmods.com.br/2020/08/gang-rider-v2-carregar-mais-gangue/)
 
 在载具上搭载更多帮派成员
 
 **操作困难**
 
-https://www.mixmods.com.br/2020/08/gang-rider-v2-carregar-mais-gangue/
-
-### Hangout With Story Characters
+## [Hangout With Story Characters](https://www.mixmods.com.br/2020/06/hangout-with-story-characters-recrutar-personagens/)
 
 招募剧情中的角色
 
-https://www.mixmods.com.br/2020/06/hangout-with-story-characters-recrutar-personagens/
-
-### Hot Coffee \*
+## [Hot Coffee \*](https://www.mixmods.com.br/2019/03/mod-cleo-hot-coffee-18/)
 
 默认开启热咖啡
 
 **帧率大于等于 60 会无法进行热咖啡游戏**
 
-https://www.mixmods.com.br/2019/03/mod-cleo-hot-coffee-18/
-
-### HeliFix
+## [HeliFix](https://www.mixmods.com.br/2021/10/helifix-piloto-nos-helicopteros/)
 
 直升机显示驾驶员，攻击驾驶员将击落直升机
 
-https://www.mixmods.com.br/2021/10/helifix-piloto-nos-helicopteros/
-
-### Improved Fastloader
-
-跳过开场快速进入游戏
-
-https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/
-
-### Ladders Mod
+## [Ladders Mod](https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/)
 
 添加攀爬楼梯的功能
 
-https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/
-
-### Local Save Name
-
-将存档名称改为保存地点
-
-https://www.mixmods.com.br/2018/03/local-save-name-save-com-nome-do-local/
-
-### Lock And Park \*
+## [Lock And Park \*](https://www.mixmods.com.br/2015/09/lock-and-park-carros-nao-sumirem/)
 
 为车辆上锁并阻止消失
 
@@ -422,230 +330,164 @@ https://www.mixmods.com.br/2018/03/local-save-name-save-com-nome-do-local/
 
 **每次下车时都会提示操作**
 
-https://www.mixmods.com.br/2015/09/lock-and-park-carros-nao-sumirem/
+## [PedSkills](https://www.mixmods.com.br/2022/08/pedskills/)
 
-### Lock Car Doors \*
+作战难度提升
 
-为车辆上锁
+## [Projectile Shoot](https://www.mixmods.com.br/2022/03/sa-projectile-shoot-atirar-para-explodir/)
 
-**仅在进入车内时有效，上锁时不能下车**
+射击炸药包将使其引爆
 
-https://www.mixmods.com.br/2015/10/trancar-portas-dos-carros/
+## [Rain Chance](https://www.mixmods.com.br/2019/07/rain-chance-v1-1-configurar-possibilidade-de-chuva/)
 
-### Reload Mod Fixed
+增加降雨几率，添加小雨天气
+
+## [Reload Mod Fixed](https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/)
 
 添加换弹键
 
-https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/
+## [Sprint Everywhere](https://www.mixmods.com.br/2022/02/sa-sprint-everywhere-correr-em-interiores/)
 
-### Stories Sprinting
+可在室内奔跑
+
+## [Stories Sprinting](https://zh.libertycity.net/file/197494)
 
 携带重型武器冲刺
 
-https://zh.libertycity.net/file/197494
-
-### Taxi Ride Mod
+## [Taxi Ride Mod \*](https://www.mixmods.com.br/2020/02/taxi-ride-mod-chamar-taxi/)
 
 呼叫和乘坐出租车
 
-https://www.mixmods.com.br/2020/02/taxi-ride-mod-chamar-taxi/
+**乘坐出租车时死亡或被捕将导致崩溃**
 
-### Trocar animacao \*
+## [Weapon Recoil Auto](https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/)
 
-更改手枪，可以在双持和单持之间切换
+添加武器后坐力
 
-**单持的射击有两种模式，可能无法正确应用动画，只有准心大小可以看出区别**
-
-https://www.mixmods.com.br/2016/02/trocar-animacao-da-pistola/
-
-### Timelapse Before Missions
+## [Timelapse Before Missions](https://www.gtainside.com/en/sanandreas/mods/189210-timelapse-before-missions/)
 
 当任务时间不匹配时使时间快速流逝
 
-https://www.gtainside.com/en/sanandreas/mods/189210-timelapse-before-missions/
+# NPC 行为
 
-## 环境与场景
+## [Peds Extender](https://www.mixmods.com.br/2022/08/peds-extender/)
 
-### Rotating Ferris Wheel
+修复和调整行人
+
+## [Restored Unused Peds](https://www.mixmods.com.br/2022/07/sa-restore-unused-peds/)
+
+恢复未使用的行人
+
+# 环境与场景
+
+## [Rotating Ferris Wheel](https://www.mixmods.com.br/2022/02/rotating-ferris-wheel-roda-gigante-animada-do-gta-v/)
 
 旋转的摩天轮
 
-https://www.mixmods.com.br/2022/02/rotating-ferris-wheel-roda-gigante-animada-do-gta-v/
+## [Beta Mulholland Safehouse](https://www.mixmods.com.br/2022/01/beta-mulholland-safehouse-casa-das-colinas-hd-version/)
 
-### Beta Mulholland Safehouse
+高清预告中的安全屋
 
-高清还原预告中的安全屋
-
-https://www.mixmods.com.br/2022/01/beta-mulholland-safehouse-casa-das-colinas-hd-version/
-
-### Proper Characters Retex HD
-
-高清 NPC 材质
-
-https://www.mixmods.com.br/2022/07/sa-proper-characters-retex-hd-peds-remaster/
-
-### Proper Player Retex
-
-高清 CJ
-
-SA/SADE
-
-https://www.mixmods.com.br/2024/12/proper-player-retex/
-
-### PedFuncs
-
-为行人添加随机材质
-
-https://www.mixmods.com.br/2022/07/pedfuncs/
-
-### Smooth Criminal Bicycles
-
-圆滑的自行车纹理
-
-https://www.mixmods.com.br/2019/06/smooth-criminal-bicycles-bicicletas-mais-arredondadas/
-
-### The Birds Update
-
-逼真的鸟
-
-https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/
-
-### Improved And Fixed Original Vegetation
-
-改善和修复植被，圆形的树
-
-https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/
-
-### More Interior Doors
+## [More Interior Doors](https://www.mixmods.com.br/2020/08/more-doors-in-interiors-portas-em-interiores/)
 
 更多室内门
 
-https://www.mixmods.com.br/2020/08/more-doors-in-interiors-portas-em-interiores/
-
-### Ganton House Enhancements
-
-需要优先级高于 Proper Fixes
+## [Ganton House Enhancements \*](https://www.mixmods.com.br/2017/09/home-sweet-home-ganton-house-enhancements/)
 
 CJ 家内部改造
 
-https://www.mixmods.com.br/2017/09/home-sweet-home-ganton-house-enhancements/
+**需要优先级高于 Proper Fixes**
 
-### No More Abandoned Area \*
+**可能与 Enterable Hidden Interiors 冲突**
+
+**存档后的存盘位置将会固定到二楼 CJ 的房间，即使 Mod 被卸载**
+
+## [No More Abandoned Area \*](https://www.mixmods.com.br/2018/03/no-more-abandoned-area/)
 
 不再有废弃区域，在废弃区域添加 NPC
 
 **可能导致崩溃**
 
-https://www.mixmods.com.br/2018/03/no-more-abandoned-area/
-
-### Peds Extender
-
-修复和调整行人
-
-https://www.mixmods.com.br/2022/08/peds-extender/
-
-### Restored Unused Peds
-
-恢复未使用的行人
-
-https://www.mixmods.com.br/2022/07/sa-restore-unused-peds/
-
-### Real Skybox
-
-真实天空
-
-https://www.mixmods.com.br/2021/06/sa-real-skybox/
-
-### Santa Maria Pier Extended
-
-码头扩建
-
-https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/
-
-### Tree House
+## [Tree House](https://www.mixmods.com.br/2022/11/sa-tree-house-mod-casa-na-arvore/)
 
 在圣辉洛郊区添加树屋房产
 
 https://www.mixmods.com.br/2022/11/sa-tree-house-mod-casa-na-arvore/
 
-### Enterable Vehicles
-
-可进入载具内部
-
-https://zh.libertycity.net/file/49470)
-
-### Urbanize
+## [Urbanize](https://www.mixmods.com.br/2025/09/urbanize/)
 
 添加环境 NPC、 载具和物品
 
-https://www.mixmods.com.br/2025/09/urbanize/
-
-### Wind Project
+## [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
 
 改善风模型
 
-https://www.mixmods.com.br/2022/10/wind-project/
+# 载具与交通
 
-## 载具与交通
+## [Cars On Dirt Roads](https://www.mixmods.com.br/2022/09/sa-cars-on-dirt-roads-mod/)
 
-### ModelExtras
+NPC 车辆将在郊区土路上行驶
+
+## [ModelExtras](https://github.com/user-grinch/ModelExtras)
 
 更多载具功能
 
-https://github.com/user-grinch/ModelExtras
-
-### ImVehFt
-
-与 SkyGfx 的冲突，爆炸后将出现绿色碎片，设置 SkyGfx `vehiclePipe=PC` 可能避免此问题
+## [ImVehFt](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/)
 
 载具功能改进
 
-https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/
+**与 SkyGfx 的冲突，爆炸后将出现绿色碎片，设置 SkyGfx `vehiclePipe=PC` 可能避免此问题**
 
-### Real Traffic Fix \*
+## [Real Traffic Fix \*](https://www.mixmods.com.br/2022/04/real-traffic-fix/)
 
 修复交通使交通更真实
 
 **可能导致 NPC 车辆过慢**
 
-SA/VC
-
-https://www.mixmods.com.br/2022/04/real-traffic-fix/
-
-### Revamped Vehicles Project
+## [Revamped Vehicles Project](https://www.mixmods.com.br/2022/08/sa-revamped-vehicles-project/)
 
 修正和改进载具
 
-https://www.mixmods.com.br/2022/08/sa-revamped-vehicles-project/
-
-### Rhino Animated \*
+## [Rhino Animated](https://www.mixmods.com.br/2020/09/rhino-animated-tanque-original-animado/)
 
 为坦克添加履带
 
-**可能导致模型错误**
+**需要优先级高于 ROSA Project Evolved**
 
-https://www.mixmods.com.br/2020/09/rhino-animated-tanque-original-animado/
-
-### VehFuncs
+## [VehFuncs](https://www.mixmods.com.br/2025/09/sa-vehfuncs/)
 
 更多载具功能
 
-https://www.mixmods.com.br/2025/09/sa-vehfuncs/
+# 剧情与任务
 
-## 剧情与任务
-
-### Ryder Doesnt Betray \*
+## [Ryder Doesnt Betray \*](https://www.mixmods.com.br/2021/05/ryder-doesnt-betray-ryder-nao-trai/)
 
 Ryder 不会背叛 Grove Street
 
 **不兼容原版存档，在前往圣辉洛任务时崩溃**
 
-https://www.mixmods.com.br/2021/05/ryder-doesnt-betray-ryder-nao-trai/
-
-### Story Mode \*
+## [Story Mode \*](https://www.mixmods.com.br/2022/11/story-mode/)
 
 故事情节改进
 
 **多个任务中可能导致崩溃**
 
-https://www.mixmods.com.br/2022/11/story-mode/
+# 其他
+
+## [PortableGTA \*](https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files/)
+
+将用户目录移动到游戏目录
+
+**更改存档位置**
+
+## [Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/)
+
+跳过开场快速进入游戏
+
+## [Local Save Name](https://www.mixmods.com.br/2018/03/local-save-name-save-com-nome-do-local/)
+
+将存档名称改为保存地点
+
+## [Heli Cam Lock](https://www.mixmods.com.br/2015/08/heli-cam-lock-travar-a-camera-no-helicoptero/)
+
+视角跟随直升机旋转
