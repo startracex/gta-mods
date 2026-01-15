@@ -4,10 +4,6 @@
 
 基础模组包，包含一系列必要的模组
 
-## [EffectLoader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/)
-
-效果加载器
-
 ## [Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/)
 
 流内存改进，修复地图加载错误
@@ -26,10 +22,6 @@
 
 修复缺失的路灯灯柱
 
-## [MixSets](https://www.mixmods.com.br/2022/03/sa-mixsets/)
-
-多项调整和修复
-
 ## [Ped Attractor Chair Anim Fix](https://www.mixmods.com.br/2022/01/gta-sa-ped-attractor-chair-anim-fix-atm/)
 
 修复 NPC 在椅子上的动画
@@ -47,6 +39,14 @@
 ## [Rain Audio Fix](https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/)
 
 在室内听到雨和雷电声
+
+## [SFDP Heli Fix](https://www.mixmods.com.br/2022/06/sa-sfdp-heli-fix/)
+
+修复圣菲耶罗警察局的直升机，调整为警用直升机
+
+## [Sky Gradient Fix](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
+
+天空渐变修复
 
 ## [Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/)
 
@@ -68,11 +68,15 @@
 
 # 界面与 HUD
 
+## [Auto Remove Marker](https://www.mixmods.com.br/2019/07/auto-remove-marker-apagar-marcador-ao-chegar-no-destino/)
+
+到达目的地后移除标记
+
 ## [Atmosphere Interface Pack](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/)
 
 高清 UI，包括地图，图例，小地图，菜单图像
 
-## [Collectibles on Radar](https://www.mixmods.com.br/2022/03/collectibles-on-radar-mostrar-coletaveis-no-mapa/)
+## [Collectibles on Radar](https://github.com/kong78/collectibles-on-radar-gta-sa)
 
 在地图上显示收集品
 
@@ -80,9 +84,17 @@
 
 GPS 导航
 
+## [More Radar Icons](https://www.mixmods.com.br/2022/01/more-radar-icons/)
+
+添加更多雷达图标
+
 ## [Loadscreens 4K Definitive](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/)
 
 高清加载界面
+
+## [Proper Radar](https://www.mixmods.com.br/2022/07/proper-radar/)
+
+高清地图修正
 
 ## [Restored Icons](https://www.mixmods.com.br/2019/11/restored-icons-restaurar-icones-nao-usados/)
 
@@ -112,6 +124,10 @@ GPS 导航
 
 # 图形与视觉特效
 
+## [EffectLoader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/)
+
+效果加载器
+
 ## [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
 
 对图形增强
@@ -130,9 +146,7 @@ GPS 导航
 
 ## [SkyGfx Extended](https://www.mixmods.com.br/2024/03/sa-skygfx/)
 
-包含 SkyGfx 使用其他平台的图形并修复图形错误
-
-也含有 Shader Stochastic 修复重复的纹理
+在 PC 平台使用其他平台的图形，拓展包含程序随机纹理、风着色器、GTA VCS 轨迹、透明度错误修复以及其他改进和设置
 
 # 环境光照与色彩风格
 
@@ -206,6 +220,8 @@ GPS 导航
 
 高清 CJ
 
+其中包含 [Mobile Hands](#mobile-hands)
+
 ## [Improved Original Weapons](https://www.mixmods.com.br/2019/09/improved-original-weapons-mod-pack/)
 
 高清的原版武器
@@ -228,10 +244,6 @@ GPS 导航
 
 圆滑的自行车纹理
 
-## [Sky Gradient Fix](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
-
-天空渐变修复
-
 ## [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/)
 
 逼真的鸟
@@ -249,6 +261,22 @@ GPS 导航
 高清货运火车
 
 # 游戏玩法
+
+## [Attach Vehicle](https://www.mixmods.com.br/2020/04/attach-vehicle-grudar-carros-no-packer-etc/)
+
+附加载具
+
+## [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/)
+
+让 CJ 的下落速度更真实
+
+## [Plane Inertia](https://www.mixmods.com.br/2020/07/gta-sa-planes-inertia-inercia-ao-pular-do-aviao/)
+
+离开飞机时具备惯性
+
+## [StableVehCam](https://www.mixmods.com.br/2016/04/stablevehcam-travar-camera-em-veiculos/)
+
+锁定摄像机，阻止摄像机自动回正
 
 ## [Bullethole](http://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros.html)
 
@@ -274,10 +302,6 @@ GPS 导航
 
 拓展攀爬功能
 
-## [Enterable Hidden Interiors](https://www.mixmods.com.br/2021/01/enterable-hidden-interiors-entrar-em-interiores-escondidos/)
-
-进入隐藏的室内
-
 ## [Extended Gang Wars](https://www.mixmods.com.br/2017/07/extended-gang-wars/)
 
 拓展帮盘战争
@@ -285,6 +309,14 @@ GPS 导航
 ## [Fair Police](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/)
 
 警察会攻击攻击 CJ 的行人
+
+## [Fire On Driver](https://www.mixmods.com.br/2021/09/fire-on-driver-motoristas-queimam-com-o-carro/)
+
+载具着火时司机也会受伤
+
+## [Fireman Fireproof Fix](https://www.mixmods.com.br/2020/02/vc-sa-fireman-fireproof-fix-bombeiros-resistentes-ao-fogo/)
+
+消防员 NPC 和穿着消防服的 CJ 免疫火焰伤害
 
 ## [First Person Mod](https://www.mixmods.com.br/2022/03/first-person-mod-primeira-pessoa/)
 
@@ -360,6 +392,10 @@ GPS 导航
 
 **乘坐出租车时死亡或被捕将导致崩溃**
 
+## [Water Hurt](https://www.mixmods.com.br/2020/03/water-hurt-receber-dano-ao-cair-na-agua/)
+
+掉入水中也会受伤
+
 ## [Weapon Recoil Auto](https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/)
 
 添加武器后坐力
@@ -369,6 +405,14 @@ GPS 导航
 当任务时间不匹配时使时间快速流逝
 
 # NPC 行为
+
+## [Hands Up Fix](https://www.mixmods.com.br/2017/01/hands-up-fix-peds-nao-abaixam-a-mao-enquanto-mira-v2-0-3/)
+
+行人投降后不会放下手
+
+## [Ped Run Fix](https://www.mixmods.com.br/2022/01/sa-sade-ped-run-fix-corrigir-velhinhas-correndo/)
+
+修复老年妇女行人奔跑姿势
 
 ## [Peds Extender](https://www.mixmods.com.br/2022/08/peds-extender/)
 
@@ -380,17 +424,21 @@ GPS 导航
 
 # 环境与场景
 
-## [Rotating Ferris Wheel](https://www.mixmods.com.br/2022/02/rotating-ferris-wheel-roda-gigante-animada-do-gta-v/)
+## [Angel Pine Hide Out](https://www.mixmods.com.br/2017/07/angel-pine-hide-out-salvar-dentro-do-trailer-de-angel-pine/)
 
-旋转的摩天轮
+将天使松树存档点移动到拖车内
 
 ## [Beta Mulholland Safehouse](https://www.mixmods.com.br/2022/01/beta-mulholland-safehouse-casa-das-colinas-hd-version/)
 
 高清预告中的安全屋
 
-## [More Interior Doors](https://www.mixmods.com.br/2020/08/more-doors-in-interiors-portas-em-interiores/)
+## [Doherty Garage Save](https://www.mixmods.com.br/2017/07/salvar-dentro-da-garagem-de-doherty/)
 
-更多室内门
+将多尔蒂的车库存档点移动到车库内
+
+## [Enterable Hidden Interiors](https://www.mixmods.com.br/2021/01/enterable-hidden-interiors-entrar-em-interiores-escondidos/)
+
+进入隐藏的室内
 
 ## [Ganton House Enhancements \*](https://www.mixmods.com.br/2017/09/home-sweet-home-ganton-house-enhancements/)
 
@@ -402,6 +450,10 @@ CJ 家内部改造
 
 **存档后的存盘位置将会固定到二楼 CJ 的房间，即使 Mod 被卸载**
 
+## [More Interior Doors](https://www.mixmods.com.br/2020/08/more-doors-in-interiors-portas-em-interiores/)
+
+更多室内门
+
 ## [No More Abandoned Area \*](https://www.mixmods.com.br/2018/03/no-more-abandoned-area/)
 
 不再有废弃区域，在废弃区域添加 NPC
@@ -412,11 +464,17 @@ CJ 家内部改造
 
 在圣辉洛郊区添加树屋房产
 
-https://www.mixmods.com.br/2022/11/sa-tree-house-mod-casa-na-arvore/
+## [Rotating Ferris Wheel](https://www.mixmods.com.br/2022/02/rotating-ferris-wheel-roda-gigante-animada-do-gta-v/)
+
+旋转的摩天轮
 
 ## [Urbanize](https://www.mixmods.com.br/2025/09/urbanize/)
 
 添加环境 NPC、 载具和物品
+
+## [Wind Farm Mod](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/)
+
+添加风力发电场
 
 ## [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
 
@@ -459,6 +517,18 @@ NPC 车辆将在郊区土路上行驶
 更多载具功能
 
 # 剧情与任务
+
+## [The Real Number 9](https://www.mixmods.com.br/2016/12/fix-the-real-number-9/)
+
+修复 9 号套餐
+
+## [Correction for the Sweet's Girl mission](https://www.mixmods.com.br/2017/07/correcao-para-a-missao-sweets-girl/)
+
+Sweet 的女孩任务中将敌对 NPC 替换为塞维利亚大道家庭
+
+## [Green Sabre Cutscenes Fix](https://www.mixmods.com.br/2021/05/green-sabre-cutscenes-fix/)
+
+移除或替换绿色赛宝车任务里的 Ryder，类似于 [Ryder Doesnt Betray](#ryder-doesnt-betray-)
 
 ## [Ryder Doesnt Betray \*](https://www.mixmods.com.br/2021/05/ryder-doesnt-betray-ryder-nao-trai/)
 
