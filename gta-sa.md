@@ -18,6 +18,10 @@
 
 修复内饰碰撞
 
+## [MixSets](https://www.mixmods.com.br/2019/08/mod-mixsets.html)
+
+通过配置文件进行多项修复和调整
+
 ## [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/)
 
 修复缺失的路灯灯柱
@@ -52,6 +56,10 @@
 
 子弹散射修复
 
+## [The Real Number 9](https://www.mixmods.com.br/2016/12/fix-the-real-number-9/)
+
+修复 9 号套餐
+
 ## [Throw Rotate Fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/)
 
 投掷武器将在空中旋转
@@ -68,13 +76,13 @@
 
 # 界面与 HUD
 
-## [Auto Remove Marker](https://www.mixmods.com.br/2019/07/auto-remove-marker-apagar-marcador-ao-chegar-no-destino/)
-
-到达目的地后移除标记
-
 ## [Atmosphere Interface Pack](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/)
 
 高清 UI，包括地图，图例，小地图，菜单图像
+
+## [Auto Remove Marker](https://www.mixmods.com.br/2019/07/auto-remove-marker-apagar-marcador-ao-chegar-no-destino/)
+
+到达目的地后移除标记
 
 ## [Collectibles on Radar](https://github.com/kong78/collectibles-on-radar-gta-sa)
 
@@ -82,15 +90,17 @@
 
 ## [GPS Redux](https://www.mixmods.com.br/2022/10/sa-gps-redux)
 
-GPS 导航
+驾驶汽车时地图显示导航，到达标记点 `removeRadius` 范围时移除标记
+
+## [Loadscreens 4K Definitive](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/)
+
+高清加载界面
 
 ## [More Radar Icons](https://www.mixmods.com.br/2022/01/more-radar-icons/)
 
 添加更多雷达图标
 
-## [Loadscreens 4K Definitive](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/)
-
-高清加载界面
+**个别图标或位置错误**
 
 ## [Proper Radar](https://www.mixmods.com.br/2022/07/proper-radar/)
 
@@ -128,13 +138,13 @@ GPS 导航
 
 效果加载器
 
-## [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
-
-对图形增强
-
 ## [FxsFuncs](https://www.mixmods.com.br/2025/06/fxsfuncs/)
 
 效改进特
+
+## [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
+
+对图形增强
 
 ## [Project 2DFX](https://www.mixmods.com.br/2020/02/sa-project2dfx/)
 
@@ -156,15 +166,15 @@ GPS 导航
 
 **一些情况下会导致崩溃**
 
-## [Skyline Timecyc](https://www.mixmods.com.br/2021/04/skyline-timecyc-cores-corrigidas/)
-
-色彩矫正
-
 ## [Real Linear Graphics \*](https://www.mixmods.com.br/2022/07/real-linear-graphics/)
 
 使得颜色更真实，减弱滤镜
 
 **降低游戏氛围**
+
+## [Skyline Timecyc](https://www.mixmods.com.br/2021/04/skyline-timecyc-cores-corrigidas/)
+
+色彩矫正
 
 # 纹理与模型
 
@@ -179,6 +189,12 @@ GPS 导航
 ## [Improved And Fixed Original Vegetation](https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/)
 
 改善和修复植被，圆形的树
+
+## [Improved Original Weapons](https://www.mixmods.com.br/2019/09/improved-original-weapons-mod-pack/)
+
+高清的原版武器
+
+**需要优先级高于 ROSA Project Evolved**
 
 ## [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/)
 
@@ -208,25 +224,19 @@ GPS 导航
 
 为行人添加随机材质
 
-## [Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/)
-
-添加更多夜间亮灯的窗户
-
 ## [Proper Characters Retex HD](https://www.mixmods.com.br/2022/07/sa-proper-characters-retex-hd-peds-remaster/)
 
 高清 NPC 材质
+
+## [Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/)
+
+添加更多夜间亮灯的窗户
 
 ## [Proper Player Retex](https://www.mixmods.com.br/2024/12/proper-player-retex/)
 
 高清 CJ
 
 其中包含 [Mobile Hands](#mobile-hands)
-
-## [Improved Original Weapons](https://www.mixmods.com.br/2019/09/improved-original-weapons-mod-pack/)
-
-高清的原版武器
-
-**需要优先级高于 ROSA Project Evolved**
 
 ## [Revamped Arsenal \*](https://www.mixmods.com.br/2020/10/revamped-arsenal-armas-originais-melhoradas/)
 
@@ -266,21 +276,13 @@ GPS 导航
 
 附加载具
 
-## [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/)
+## [Bullethole](http://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros.html)
 
-让 CJ 的下落速度更真实
-
-## [Plane Inertia](https://www.mixmods.com.br/2020/07/gta-sa-planes-inertia-inercia-ao-pular-do-aviao/)
-
-离开飞机时具备惯性
+子弹射击留下弹孔
 
 ## [StableVehCam](https://www.mixmods.com.br/2016/04/stablevehcam-travar-camera-em-veiculos/)
 
 锁定摄像机，阻止摄像机自动回正
-
-## [Bullethole](http://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros.html)
-
-子弹射击留下弹孔
 
 ## [Buy Property](https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/)
 
@@ -326,9 +328,9 @@ GPS 导航
 
 进食时食物可见
 
-## [Horn Call Homies](https://www.mixmods.com.br/2018/08/horn-call-homies-chamar-gangue-buzinando/)
+## [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/)
 
-在盟友附近鸣笛招募他们
+让 CJ 的下落速度更真实
 
 ## [Gang Rider \*](https://www.mixmods.com.br/2020/08/gang-rider-v2-carregar-mais-gangue/)
 
@@ -340,15 +342,19 @@ GPS 导航
 
 招募剧情中的角色
 
+## [HeliFix](https://www.mixmods.com.br/2021/10/helifix-piloto-nos-helicopteros/)
+
+直升机显示驾驶员，攻击驾驶员将击落直升机
+
+## [Horn Call Homies](https://www.mixmods.com.br/2018/08/horn-call-homies-chamar-gangue-buzinando/)
+
+在盟友附近鸣笛招募他们
+
 ## [Hot Coffee \*](https://www.mixmods.com.br/2019/03/mod-cleo-hot-coffee-18/)
 
 默认开启热咖啡
 
 **帧率大于等于 60 会无法进行热咖啡游戏**
-
-## [HeliFix](https://www.mixmods.com.br/2021/10/helifix-piloto-nos-helicopteros/)
-
-直升机显示驾驶员，攻击驾驶员将击落直升机
 
 ## [Ladders Mod](https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/)
 
@@ -365,6 +371,10 @@ GPS 导航
 ## [PedSkills](https://www.mixmods.com.br/2022/08/pedskills/)
 
 作战难度提升
+
+## [Planes Inertia](https://www.mixmods.com.br/2020/07/gta-sa-planes-inertia-inercia-ao-pular-do-aviao/)
+
+离开飞机时具备惯性
 
 ## [Projectile Shoot](https://www.mixmods.com.br/2022/03/sa-projectile-shoot-atirar-para-explodir/)
 
@@ -440,6 +450,8 @@ GPS 导航
 
 进入隐藏的室内
 
+**重新加载存档有概率崩溃**
+
 ## [Ganton House Enhancements \*](https://www.mixmods.com.br/2017/09/home-sweet-home-ganton-house-enhancements/)
 
 CJ 家内部改造
@@ -466,7 +478,7 @@ CJ 家内部改造
 
 ## [Rotating Ferris Wheel](https://www.mixmods.com.br/2022/02/rotating-ferris-wheel-roda-gigante-animada-do-gta-v/)
 
-旋转的摩天轮
+旋转发光的摩天轮，具有原版和 GTA 5 风格
 
 ## [Urbanize](https://www.mixmods.com.br/2025/09/urbanize/)
 
@@ -474,7 +486,7 @@ CJ 家内部改造
 
 ## [Wind Farm Mod](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/)
 
-添加风力发电场
+在骨头县添加风力发电场
 
 ## [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
 
@@ -486,15 +498,15 @@ CJ 家内部改造
 
 NPC 车辆将在郊区土路上行驶
 
-## [ModelExtras](https://github.com/user-grinch/ModelExtras)
-
-更多载具功能
-
 ## [ImVehFt](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/)
 
 载具功能改进
 
 **与 SkyGfx 的冲突，爆炸后将出现绿色碎片，设置 SkyGfx `vehiclePipe=PC` 可能避免此问题**
+
+## [ModelExtras](https://github.com/user-grinch/ModelExtras)
+
+更多载具功能
 
 ## [Real Traffic Fix \*](https://www.mixmods.com.br/2022/04/real-traffic-fix/)
 
@@ -517,18 +529,6 @@ NPC 车辆将在郊区土路上行驶
 更多载具功能
 
 # 剧情与任务
-
-## [The Real Number 9](https://www.mixmods.com.br/2016/12/fix-the-real-number-9/)
-
-修复 9 号套餐
-
-## [Correction for the Sweet's Girl mission](https://www.mixmods.com.br/2017/07/correcao-para-a-missao-sweets-girl/)
-
-Sweet 的女孩任务中将敌对 NPC 替换为塞维利亚大道家庭
-
-## [Green Sabre Cutscenes Fix](https://www.mixmods.com.br/2021/05/green-sabre-cutscenes-fix/)
-
-移除或替换绿色赛宝车任务里的 Ryder，类似于 [Ryder Doesnt Betray](#ryder-doesnt-betray-)
 
 ## [Ryder Doesnt Betray \*](https://www.mixmods.com.br/2021/05/ryder-doesnt-betray-ryder-nao-trai/)
 
