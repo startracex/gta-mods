@@ -30,7 +30,7 @@
 
 修复 NPC 在椅子上的动画
 
-## [Proper Fixes \*](https://www.mixmods.com.br/2025/11/sa-proper-fixes/)
+## [Proper Fixes](https://www.mixmods.com.br/2025/11/sa-proper-fixes/)
 
 大量修复
 
@@ -160,21 +160,21 @@
 
 # 环境光照与色彩风格
 
-## [24h TimeCycle \*](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/)
+## [24h TimeCycle](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/)
 
 24 小时时间循环
 
 **一些情况下会导致崩溃**
 
-## [Real Linear Graphics \*](https://www.mixmods.com.br/2022/07/real-linear-graphics/)
+## [Real Linear Graphics](https://www.mixmods.com.br/2022/07/real-linear-graphics/)
 
-使得颜色更真实，减弱滤镜
+使得颜色更真实，减弱滤镜，修复室内光影
 
 **降低游戏氛围**
 
 ## [Skyline Timecyc](https://www.mixmods.com.br/2021/04/skyline-timecyc-cores-corrigidas/)
 
-色彩矫正
+使得颜色更真实，减弱滤镜，修复室内光影
 
 # 纹理与模型
 
@@ -238,7 +238,7 @@
 
 其中包含 [Mobile Hands](#mobile-hands)
 
-## [Revamped Arsenal \*](https://www.mixmods.com.br/2020/10/revamped-arsenal-armas-originais-melhoradas/)
+## [Revamped Arsenal](https://www.mixmods.com.br/2020/10/revamped-arsenal-armas-originais-melhoradas/)
 
 [Improved Original Weapons](#improved-original-weapons)的替代方案，武器改为了黑色
 
@@ -332,7 +332,7 @@
 
 让 CJ 的下落速度更真实
 
-## [Gang Rider \*](https://www.mixmods.com.br/2020/08/gang-rider-v2-carregar-mais-gangue/)
+## [Gang Rider](https://www.mixmods.com.br/2020/08/gang-rider-v2-carregar-mais-gangue/)
 
 在载具上搭载更多帮派成员
 
@@ -350,7 +350,7 @@
 
 在盟友附近鸣笛招募他们
 
-## [Hot Coffee \*](https://www.mixmods.com.br/2019/03/mod-cleo-hot-coffee-18/)
+## [Hot Coffee](https://www.mixmods.com.br/2019/03/mod-cleo-hot-coffee-18/)
 
 默认开启热咖啡
 
@@ -360,7 +360,7 @@
 
 添加攀爬楼梯的功能
 
-## [Lock And Park \*](https://www.mixmods.com.br/2015/09/lock-and-park-carros-nao-sumirem/)
+## [Lock And Park](https://www.mixmods.com.br/2015/09/lock-and-park-carros-nao-sumirem/)
 
 为车辆上锁并阻止消失
 
@@ -396,7 +396,7 @@
 
 携带重型武器冲刺
 
-## [Taxi Ride Mod \*](https://www.mixmods.com.br/2020/02/taxi-ride-mod-chamar-taxi/)
+## [Taxi Ride Mod](https://www.mixmods.com.br/2020/02/taxi-ride-mod-chamar-taxi/)
 
 呼叫和乘坐出租车
 
@@ -452,7 +452,7 @@
 
 **重新加载存档有概率崩溃**
 
-## [Ganton House Enhancements \*](https://www.mixmods.com.br/2017/09/home-sweet-home-ganton-house-enhancements/)
+## [Ganton House Enhancements](https://www.mixmods.com.br/2017/09/home-sweet-home-ganton-house-enhancements/)
 
 CJ 家内部改造
 
@@ -466,7 +466,7 @@ CJ 家内部改造
 
 更多室内门
 
-## [No More Abandoned Area \*](https://www.mixmods.com.br/2018/03/no-more-abandoned-area/)
+## [No More Abandoned Area](https://www.mixmods.com.br/2018/03/no-more-abandoned-area/)
 
 不再有废弃区域，在废弃区域添加 NPC
 
@@ -508,7 +508,7 @@ NPC 车辆将在郊区土路上行驶
 
 更多载具功能
 
-## [Real Traffic Fix \*](https://www.mixmods.com.br/2022/04/real-traffic-fix/)
+## [Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/)
 
 修复交通使交通更真实
 
@@ -530,13 +530,13 @@ NPC 车辆将在郊区土路上行驶
 
 # 剧情与任务
 
-## [Ryder Doesnt Betray \*](https://www.mixmods.com.br/2021/05/ryder-doesnt-betray-ryder-nao-trai/)
+## [Ryder Doesnt Betray](https://www.mixmods.com.br/2021/05/ryder-doesnt-betray-ryder-nao-trai/)
 
 Ryder 不会背叛 Grove Street
 
 **不兼容原版存档，在前往圣辉洛任务时崩溃**
 
-## [Story Mode \*](https://www.mixmods.com.br/2022/11/story-mode/)
+## [Story Mode](https://www.mixmods.com.br/2022/11/story-mode/)
 
 故事情节改进
 
@@ -544,7 +544,7 @@ Ryder 不会背叛 Grove Street
 
 # 其他
 
-## [PortableGTA \*](https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files/)
+## [PortableGTA](https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files/)
 
 将用户目录移动到游戏目录
 
